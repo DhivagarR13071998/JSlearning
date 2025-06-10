@@ -2,6 +2,7 @@
 
 console.log("Hello World!")
 console.log("Hello new one ")
+console.log("Revision of basics")
 
 // Variables
 var firstName = "Dhivagar";  // Declaring a variable with var and assigning a string value
@@ -32,3 +33,8 @@ var age = 25 //number
 var isHemarried = false // Boolean
 var yearsinmarriage = null //null
 var numberofcars = undefined  //undefined
+console.log(Name)
+console.log(age)
+console.log(isHemarried)
+console.log(yearsinmarriage)
+console.log(numberofcars)
