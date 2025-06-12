@@ -1,14 +1,13 @@
-var firstname ='Dhivagar'
+"use strict";
+
+var firstname = "Ragul";
 console.log(firstname)
 
-firstname = "Ragul"
-console.log(firstname)
-
-lastname ='smith'
+var lastname ='smith';
 console.log(lastname)
 
 
-const occupation = "Education"
+const occupation = "Education";
 console.log(occupation)
-occupation = "Hi"
-console.log(occupation)
+/*"occupation = "Engineering";
+console.log(occupation)*/
