@@ -23,7 +23,7 @@ console.log(dob);            // Printing the value of 'dob' ('13-july')
 console.log(sex);            // Printing the value of 'sex' ('Male')
 
 //Constants
-const occupation = "Engineer"
+const occupation = "Engineer";
 // occupation = "Hi"
 console.log(occupation)
 
